@@ -1,0 +1,20 @@
+NAME: dj38
+COMMENT : 38 locations in Djibouti
+COMMENT : Derived from National Imagery and Mapping Agency data
+COMMENT : This file is a corrected version of dj89, where duplications
+COMMENT:  have been removed.  Thanks to Jay Muthuswamy and others for
+COMMENT:  requesting data sets without duplications.
+TYPE: TSP
+DIMENSION: 38
+EDGE_WEIGHT_TYPE: EUC_2D
+NODE_COORD_SECTION
+1 11003.611100 42102.500000
+2 11108.611100 42373.888900
+3 11133.333300 42885.833300
+4 11155.833300 42712.500000
+5 11183.333300 42933.333300
+6 11297.500000 42853.333300
+7 11310.277800 42929.444400
+8 11416.666700 42983.333300
+9 11423.888900 43000.277800
+10 11438.333300 42057.222200
